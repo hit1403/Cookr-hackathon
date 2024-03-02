@@ -1,0 +1,60 @@
+,name,ingredients,diet,prep_time,cook_time,flavor_profile,course,state,region
+64,Maach Jhol,"Fish, potol, tomato, chillies, ginger, garlic",non vegetarian,10,40,spicy,main course,Assam,North East
+65,Pork Bharta,"Boiled pork, onions, chillies, ginger and garlic",non vegetarian,-1,-1,spicy,main course,Tripura,North East
+67,Galho,"Rice, axone, salt, water, chillies, pork",non vegetarian,5,15,spicy,main course,Nagaland,North East
+75,Biryani,"Chicken thighs, basmati rice, star anise, sweet, green chillies",non vegetarian,30,120,spicy,main course,Telangana,South
+76,Butter chicken,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter",non vegetarian,10,35,spicy,main course,NCT of Delhi,North
+79,Chicken razala,"Chicken, dahi, sesame seeds, garam masala powder, cashew nuts, saffron",non vegetarian,10,35,spicy,main course,West Bengal,East
+80,Chicken Tikka masala,"Naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala",non vegetarian,10,50,spicy,main course,Punjab,North
+81,Chicken Tikka,"Chicken, whole wheat bread, rice flour, garam masala powder, whole egg",non vegetarian,120,45,spicy,starter,Punjab,North
+122,Tandoori Chicken,"Greek yogurt, Chicken, garam masala, kasuri methi, marinade, mustard oil",non vegetarian,240,30,spicy,main course,Punjab,North
+123,Tandoori Fish Tikka,"Chickpea flour, biryani masala powder, yogurt, fish fillets, green bell pepper",non vegetarian,240,30,spicy,starter,Punjab,North
+137,Beef Fry,"Beef, coconut, garam masala, curry leaves, green chilies, chili powder",non vegetarian,10,60,spicy,main course,Kerala,South
+163,Chicken Varuval,"Meat curry powder, chicken chunks, ginger, tomato, cinnamon",non vegetarian,10,35,spicy,main course,Tamil Nadu,South
+167,Kolim Jawla,"Baingan, fish, coconut oil, fresh coconut, ginger",non vegetarian,-1,-1,spicy,main course,Maharashtra,West
+172,Bombil fry,"Bombay duck, malvani masala, rice flour, bombay rava, green chilies",non vegetarian,-1,-1,spicy,main course,Maharashtra,West
+211,Vindaloo,"Chicken, coconut oil, wine vinegar, ginger, green, cinnamon",non vegetarian,10,40,spicy,main course,Goa,West
+222,Kumol Sawul,"Rice, eggs, carrot, beetroot",non vegetarian,-1,-1,spicy,main course,Assam,North East
+224,Alu Pitika,"Potatoes, mustard oil, fish, green chillies",non vegetarian,5,20,spicy,main course,Assam,North East
+225,Masor tenga,"Ridge gourd, fish, lemon, tomatoes, mustard oil",non vegetarian,15,25,spicy,main course,Assam,North East
+227,Bilahi Maas,"Potatoes, garam masala, tomatoes, mustard oil, bay leaf",non vegetarian,10,20,spicy,main course,Assam,North East
+228,Black rice,"Forbidden black rice, chicken, olive oil, slivered almonds, garlic powder",non vegetarian,-1,-1,spicy,main course,Manipur,North East
+231,Chingri malai curry,"Coconut milk, lobster, fresh green chilli, ginger, red onion",non vegetarian,10,40,spicy,main course,West Bengal,East
+234,Haq Maas,"Lamb, garam masala powder, curd, turmeric, bay leaf",non vegetarian,20,40,spicy,main course,Assam,North East
+235,Chingri Bhape,"Coconut, prawns, curd, mustard seed, green chili",non vegetarian,15,30,spicy,main course,West Bengal,East
+236,Kabiraji,"Fish fillet, besan, lemon, mint, ginger",non vegetarian,-1,-1,spicy,main course,West Bengal,East
+238,Koldil Chicken,"Banana flower, chicken, green chili, mustard oil, lemon juice",non vegetarian,-1,-1,spicy,main course,Assam,North East
+239,Konir Dom,"Aloo, tomatoes, mustard oil, bay leaf, cinnamon stick",non vegetarian,-1,-1,spicy,main course,Assam,North East
+240,Koldil Duck,"Rice flour, mutton, banana, gram flour, olive oil, baking powder",non vegetarian,-1,-1,spicy,main course,Assam,North East
+241,Masor Koni,"Fish roe, pumpkin flowers, mustard oil, turmeric, tomato",non vegetarian,-1,-1,spicy,main course,Assam,North East
+246,Prawn malai curry,"Coconut milk, prawns, garlic, turmeric, sugar",non vegetarian,15,50,spicy,main course,West Bengal,East
+0,Balu shahi,"Maida flour, yogurt, oil, sugar",vegetarian,45,25,sweet,dessert,West Bengal,East
+1,Boondi,"Gram flour, ghee, sugar",vegetarian,80,30,sweet,dessert,Rajasthan,West
+2,Gajar ka halwa,"Carrots, milk, sugar, ghee, cashews, raisins",vegetarian,15,60,sweet,dessert,Punjab,North
+3,Ghevar,"Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom",vegetarian,15,30,sweet,dessert,Rajasthan,West
+4,Gulab jamun,"Milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water",vegetarian,15,40,sweet,dessert,West Bengal,East
+5,Imarti,"Sugar syrup, lentil flour",vegetarian,10,50,sweet,dessert,West Bengal,East
+6,Jalebi,"Maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,10,50,sweet,dessert,Uttar Pradesh,North
+7,Kaju katli,"Cashews, ghee, cardamom, sugar",vegetarian,10,20,sweet,dessert,-1,North
+8,Kalakand,"Milk, cottage cheese, sugar",vegetarian,20,30,sweet,dessert,West Bengal,East
+9,Kheer,"Milk, rice, sugar, dried fruits",vegetarian,10,40,sweet,dessert,-1,North
+10,Laddu,"Gram flour, ghee, sugar",vegetarian,10,40,sweet,dessert,-1,South
+11,Lassi,"Yogurt, milk, nuts, sugar",vegetarian,5,5,sweet,dessert,Punjab,North
+12,Nankhatai,"Refined flour, besan, ghee, powdered sugar, yoghurt, green cardamom",vegetarian,20,30,sweet,dessert,-1,South
+13,Petha,"Firm white pumpkin, sugar, kitchen lime, alum powder",vegetarian,10,30,sweet,dessert,Uttar Pradesh,North
+14,Phirni,"Rice, sugar, nuts",vegetarian,30,20,sweet,dessert,Odisha,East
+15,Rabri,"Condensed milk, sugar, spices, nuts",vegetarian,10,45,sweet,dessert,Uttar Pradesh,North
+16,Sheera,"Semolina, ghee, nuts, milk",vegetarian,10,25,sweet,dessert,Maharashtra,West
+17,Singori,"Khoa, coconut, molu leaf",vegetarian,10,20,sweet,dessert,Uttarakhand,North
+18,Sohan halwa,"Corn flour, ghee, dry fruits",vegetarian,10,60,sweet,dessert,Uttar Pradesh,North
+19,Sohan papdi,"Gram flour, ghee, sugar, milk, cardamom",vegetarian,-1,60,sweet,dessert,Maharashtra,West
+20,Chhena jalebi,"Chhena, sugar, ghee",vegetarian,10,50,sweet,dessert,Odisha,East
+21,Chhena kheeri,"Chhena, sugar, milk",vegetarian,-1,60,sweet,dessert,Odisha,East
+22,Chhena poda,"Sugar, chenna cheese",vegetarian,10,45,sweet,dessert,Odisha,East
+23,Cham cham,"Flour, cream, sugar, saffron, lemon juice, coconut flakes",vegetarian,40,60,sweet,dessert,West Bengal,East
+24,Kheer sagar,"Chenna, condensed milk, sugar, saffron, cardamom",vegetarian,25,60,sweet,dessert,Odisha,East
+25,Ledikeni,"Chhena, sugar, ghee",vegetarian,45,45,sweet,dessert,West Bengal,East
+26,Lyangcha,"Flour, fried milk power, sugar syrup",vegetarian,20,30,sweet,dessert,Assam,North East
+27,Malapua,"Yoghurt, refined flour, ghee, fennel seeds",vegetarian,10,120,sweet,dessert,Bihar,North
+28,Mihidana,"Besan flour, sugar, ghee",vegetarian,15,30,sweet,dessert,West Bengal,East
+29,Misti doi,"Milk, jaggery",vegetarian,480,30,sweet,dessert,West Bengal,East

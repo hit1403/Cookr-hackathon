@@ -1,0 +1,420 @@
+PS H:\Cookr 2> python -u "h:\Cookr 2\app.py"
+
+Enter number of customers: 2
+
+Enter number of orders for customer 1 : 1
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 2
+
+Enter number of orders for customer 2 : 2
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 3
+        Enter your choice of kitchen for order 2 : 4
+custK [[[10.996851, 76.967892]], [[11.025913, 76.941858], [11.045755, 77.041797]]]
+[[4.902586214986105, 'r1'], [2.331440816333458, 'r2'], [8.243304550823316, 'r3'], [9.968017745391457, 'r4'], [5.210626500089396, 'r5']]
+PS H:\Cookr 2> python -u "h:\Cookr 2\app.py"
+
+Enter number of customers: 2
+
+Enter number of orders for customer 1 : 1
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 4
+
+Enter number of orders for customer 2 : 2
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 3
+        Enter your choice of kitchen for order 2 : 5
+lenk 2
+cust1 [[4.902586214986105, 'r1'], [2.331440816333458, 'r2'], [8.243304550823316, 'r3'], [9.968017745391457, 'r4'], [5.210626500089396, 'r5']]
+cust2 [[6.746091449147518, 'r1'], [9.36952545138119, 'r2'], [3.2210998101439787, 'r3'], [2.7231230501378674, 'r4'], [16.327630353058193, 'r5']]
+cust2 [[7.154502345830321, 'r1'], [5.466317832901511, 'r2'], [9.606836424285282, 'r3'], [11.490379904775867, 'r4'], [6.07183940907382, 'r5']]
+dists
+[[7.154502345830321, 'r1'], [5.466317832901511, 'r2'], [9.606836424285282, 'r3'], [11.490379904775867, 'r4'], [6.07183940907382, 'r5']]    
+PS H:\Cookr 2> python -u "h:\Cookr 2\app.py"
+
+Enter number of customers: 2
+
+Enter number of orders for customer 1 : 1
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 4
+
+Enter number of orders for customer 2 : 2
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 4
+        Enter your choice of kitchen for order 2 : 7
+custK [[[11.045755, 77.041797]], [[11.045755, 77.041797], [11.075668, 76.985087]]]
+lenk 2
+cust1 [[4.902586214986105, 'r1'], [2.331440816333458, 'r2'], [8.243304550823316, 'r3'], [9.968017745391457, 'r4'], [5.210626500089396, 'r5']]
+cust2 [[4.902586214986105, 'r1'], [2.331440816333458, 'r2'], [8.243304550823316, 'r3'], [9.968017745391457, 'r4'], [5.210626500089396, 'r5']]
+cust2 [[6.237146717892341, 'r1'], [6.871147301755426, 'r2'], [6.341205271692351, 'r3'], [8.041478026525576, 'r4'], [11.357160939784988, 'r5']]
+dists
+[[4.902586214986105, 'r1'], [2.331440816333458, 'r2'], [8.243304550823316, 'r3'], [9.968017745391457, 'r4'], [5.210626500089396, 'r5'], [6.237146717892341, 'r1'], [6.871147301755426, 'r2'], [6.341205271692351, 'r3'], [8.041478026525576, 'r4'], [11.357160939784988, 'r5']]       
+PS H:\Cookr 2> python -u "h:\Cookr 2\app.py"
+
+Enter number of customers: 2
+
+Enter number of orders for customer 1 : 1
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 5
+
+Enter number of orders for customer 2 : 2
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 6
+        Enter your choice of kitchen for order 2 : 3
+custK [[[11.078568, 77.035901]], [[11.079727, 76.942602], [11.025913, 76.941858]]]
+lenk 2
+cust2 [[9.200003612866517, 'r1'], [10.79396026487098, 'r2'], [7.282232725949014, 'r3'], [8.16612375119375, 'r4'], [16.00702903130262, 'r5']]
+cust2 [[9.200003612866517, 'r1'], [10.79396026487098, 'r2'], [7.282232725949014, 'r3'], [8.16612375119375, 'r4'], [16.00702903130262, 'r5'], [6.746091449147518, 'r1'], [9.36952545138119, 'r2'], [3.2210998101439787, 'r3'], [2.7231230501378674, 'r4'], [16.327630353058193, 'r5']] 
+dists
+[[7.154502345830321, 'r1'], [5.466317832901511, 'r2'], [9.606836424285282, 'r3'], [11.490379904775867, 'r4'], [6.07183940907382, 'r5'], [9.200003612866517, 'r1'], [10.79396026487098, 'r2'], [7.282232725949014, 'r3'], [8.16612375119375, 'r4'], [16.00702903130262, 'r5'], [6.746091449147518, 'r1'], [9.36952545138119, 'r2'], [3.2210998101439787, 'r3'], [2.7231230501378674, 'r4'], [16.327630353058193, 'r5']]
+PS H:\Cookr 2>
+
+               python -u "h:\Cookr 2\app.py"
+
+Enter number of customers: 2
+
+Enter your location coordinates (input with ",") : 11.031047, 77.037839
+Traceback (most recent call last):
+  File "h:\Cookr 2\app.py", line 175, in <module>
+    custLoc['c' + str(i + 1)] = list(map(int, input('\nEnter your location coordinates (input with ",") : ').split(',')))
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '11.031047'
+PS H:\Cookr 2> python -u "h:\Cookr 2\app.py"
+
+Enter number of customers: 11.031047, 77.037839
+Traceback (most recent call last):
+  File "h:\Cookr 2\app.py", line 165, in <module>
+    customerCount = float(input("\nEnter number of customers: "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: '11.031047, 77.037839'
+PS H:\Cookr 2> python -u "h:\Cookr 2\app.py"
+
+Enter number of customers: 2
+
+Enter your location coordinates (input with ",") : 11.031047, 77.037839
+
+Enter number of orders for customer 1 : 1
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 3
+
+Enter your location coordinates (input with ",") : 11.002274, 77.029230
+
+Enter number of orders for customer 2 : 1
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 7
+custK [[[11.025913, 76.941858]], [[11.075668, 76.985087]]]
+lenk 2
+r r4
+cA defaultdict(<class 'list'>, {'c1': ['r4']})
+r r1
+cA defaultdict(<class 'list'>, {'c1': ['r4'], 'c2': ['r1']})
+PS H:\Cookr 2> python -u "h:\Cookr 2\app.py"
+
+Enter number of customers: 3
+
+Enter your location coordinates (input with ",") : 11.031047, 77.037839
+
+Enter number of orders for customer 1 : 2
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 3
+        Enter your choice of kitchen for order 2 : 7
+
+Enter your location coordinates (input with ",") : 11.025860, 76.951378
+
+Enter number of orders for customer 2 : 2
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 2
+        Enter your choice of kitchen for order 2 : 6
+
+Enter your location coordinates (input with ",") : 10.988170, 76.962050 
+
+Enter number of orders for customer 3 : 1
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 3
+custK [[[11.025913, 76.941858], [11.075668, 76.985087]], [[10.996851, 76.967892], [11.079727, 76.942602]], [[11.025913, 76.941858]]]
+lenk 3
+Traceback (most recent call last):
+  File "h:\Cookr 2\app.py", line 255, in <module>
+    dist = assign(custLoc, custKitchen, rider)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "h:\Cookr 2\app.py", line 138, in assign
+    kitDist = distance(K1[0][0], K1[0][1], K1[1][0], K1[1][1])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "h:\Cookr 2\app.py", line 75, in distance
+    return acos( sin(lat1)*sin(lat2) + cos(lat1)*cos(lat2)*cos(lon2 - lon1) ) * 6371
+                 ^^^^^^^^^
+TypeError: only length-1 arrays can be converted to Python scalars
+PS H:\Cookr 2> python -u "h:\Cookr 2\app.py"
+
+Enter number of customers: 3
+
+Enter your location coordinates (input with ",") : 11.054687, 76.995046
+
+Enter number of orders for customer 1 : 2
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 5
+        Enter your choice of kitchen for order 2 : 2
+
+Enter your location coordinates (input with ",") : 10.988170, 76.962050
+
+Enter number of orders for customer 2 : 1
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 4
+
+Enter your location coordinates (input with ",") : 11.002274, 77.029230
+
+Enter number of orders for customer 3 : 1
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 5
+custK [[[11.078568, 77.035901], [10.996851, 76.967892]], [[11.045755, 77.041797]], [[11.078568, 77.035901]]]
+lenk 3
+Traceback (most recent call last):
+  File "h:\Cookr 2\app.py", line 255, in <module>
+    dist = assign(custLoc, custKitchen, rider)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "h:\Cookr 2\app.py", line 158, in assign
+    dist1 = [[distance(K1[0][0], K1[0][1], v[0], v[1]), k] for k, v in R1.items()]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "h:\Cookr 2\app.py", line 75, in distance
+    return acos( sin(lat1)*sin(lat2) + cos(lat1)*cos(lat2)*cos(lon2 - lon1) ) * 6371
+                 ^^^^^^^^^
+TypeError: only length-1 arrays can be converted to Python scalars
+PS H:\Cookr 2> python -u "h:\Cookr 2\app.py"
+
+Enter number of customers: 2
+
+Enter your location coordinates (input with ",") : 11.031047, 77.037839
+
+Enter number of orders for customer 1 : 1
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 6
+
+Enter your location coordinates (input with ",") : 10.988170, 76.962050 
+
+Enter number of orders for customer 2 : 2
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 3
+        Enter your choice of kitchen for order 2 : 4
+custK [[[11.079727, 76.942602]], [[11.025913, 76.941858], [11.045755, 77.041797]]]
+lenk 2
+r r3
+cA defaultdict(<class 'list'>, {'c1': ['r3']})
+Traceback (most recent call last):
+  File "h:\Cookr 2\app.py", line 255, in <module>
+    dist = assign(custLoc, custKitchen, rider)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "h:\Cookr 2\app.py", line 138, in assign
+    kitDist = distance(K1[0][0][0], K1[0][0][1], K1[0][1][0], K1[0][1][1])
+                                                 ~~~~~^^^
+IndexError: list index out of range
+PS H:\Cookr 2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS H:\Cookr 2> python -u "h:\Cookr 2\app.py"
+
+Enter number of customers: 2
+
+Enter your location coordinates (input with ",") : 11.031047, 77.037839
+
+Enter number of orders for customer 1 : 2
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 1
+        Enter your choice of kitchen for order 2 : 2
+
+Enter your location coordinates (input with ",") : 11.002274, 77.029230
+
+Enter number of orders for customer 2 : 1
+
+        1. kitchen1
+        2. kitchen2
+        3. kitchen3
+        4. kitchen4
+        5. kitchen5
+        6. kitchen6
+        7. kitchen7
+
+        Enter your choice of kitchen for order 1 : 7
+custK [[[10.997107, 76.99587], [10.996851, 76.967892]], [[11.075668, 76.985087]]]
+lenk 2
+r r1
+cA defaultdict(<class 'list'>, {'c1': ['r1', 'r4'], 'c2': ['r1']})
+PS H:\Cookr 2> 
